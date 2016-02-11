@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0B871573836734C6E8B52048DC0B03DFD2EDBD8A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4D9D68AFFE5A4B34160C1E06B1313FBAEA801887" : 0,
+    "0B871573836734C6E8B52048DC0B03DFD2EDBD8A" : 0,
+    "EEF322F39DC3CA465F79C1A9CCB519A047E31DD1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "66D384A4-375D-4771-BA85-FC6AB0C7F812",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4D9D68AFFE5A4B34160C1E06B1313FBAEA801887" : "",
+    "0B871573836734C6E8B52048DC0B03DFD2EDBD8A" : "Fandom-IOS-master\/",
+    "EEF322F39DC3CA465F79C1A9CCB519A047E31DD1" : "Fandomm\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fandomm",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Fandomm.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/simonnarang\/Fandom-IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B871573836734C6E8B52048DC0B03DFD2EDBD8A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/simonnarang\/Fandom.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D9D68AFFE5A4B34160C1E06B1313FBAEA801887"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/simonnarang\/Fandom-IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEF322F39DC3CA465F79C1A9CCB519A047E31DD1"
+    }
+  ]
+}
